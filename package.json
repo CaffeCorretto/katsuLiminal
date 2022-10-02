@@ -1,5 +1,5 @@
 {
-  "name": "reverie",
+  "name": "katsuliminal",
   "version": "1.0.0",
   "description": "just a osu skin",
   "main": "index.js",
@@ -9,15 +9,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/LazyHarmo/Reverie.git"
+    "url": "git+https://github.com/CaffeCorretto/katsuLiminal.git"
   },
   "keywords": [],
   "author": "deth",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/LazyHarmo/Reverie/issues"
+    "url": "https://github.com/CaffeCorretto/katsuLiminal/issues"
   },
-  "homepage": "https://github.com/LazyHarmo/Reverie#readme",
+  "homepage": "https://github.com/CaffeCorretto/katsuLiminal#readme",
   "dependencies": {
     "fs": "^0.0.1-security",
     "zip-a-folder": "^1.1.5"
