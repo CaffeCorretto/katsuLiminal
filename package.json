@@ -1,0 +1,25 @@
+{
+  "name": "reverie",
+  "version": "1.0.0",
+  "description": "just a osu skin",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "node build.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LazyHarmo/Reverie.git"
+  },
+  "keywords": [],
+  "author": "deth",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LazyHarmo/Reverie/issues"
+  },
+  "homepage": "https://github.com/LazyHarmo/Reverie#readme",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "zip-a-folder": "^1.1.5"
+  }
+}
