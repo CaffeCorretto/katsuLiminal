@@ -1,7 +1,7 @@
 # Skin info
 Original Osu skin
 
-Name: - Reverie -<br />
-Author: Qualle, dethMastery<br />
-Version: 2.7
+Name: ~ katsuLiminal ~<br />
+Author: dethMastery<br />
+Version: latest
  
