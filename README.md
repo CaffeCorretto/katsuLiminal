@@ -4,7 +4,7 @@ Name: ~ katsuLiminal ~<br />
 Author: dethMastery<br />
 Version: latest
  
-# this is `katsuLiminal`, 
+# this is katsuLiminal, 
 some kind of osu skin that seem like based on `clearblack` but this skin is more completable for some people like me.
 
 ## if you wanna see a little of preview you can see here
